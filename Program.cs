@@ -10,7 +10,7 @@ namespace Determine_Word_Occurrences_in_a_String
     {
         static void Main(string[] args)
         {
-            // Below are actual data thats given in asiignmnet 2 "Determine Word Occurrences in a String"
+            // Below are actual data thats given in asiignmnet two "Determine Word Occurrences in a String"
             string[] myWords = { "My", "NEW", "Test", "Fix", "cup", "Car" };
             string longString =@"jsdfkfjslffTESTrtyty4my73589347yeqw672345[l;fxnnadfsleqwrewurmyydsfTesthcverTetswewyrklsdg9i
                                erhdsfixjhfewycupriuewyqodhfsooiemywryuhdflyaewirhdfliuycupehivjlfixyeocnFIXyiernewpanvlhdtwu
